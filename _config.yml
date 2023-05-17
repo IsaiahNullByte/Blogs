@@ -2,5 +2,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: Cyber astronauts just exploring the known and unkown.
-description: Here is a collection of my Blue/Red team research. You most likely landed here because you too are exploring the unkown within the cyber depths.
+title: Cyber Astronauts just exploring the known and $unkown.
+description: Here is a collection of my Blue/Red team research. You most likely landed here because you too are exploring depths of cyber space.
