@@ -1,7 +1,7 @@
 ---
 title: IsaiahNullByte blog
 ---
-<html><code><span class="ascii" style="color: #151515; background: transparent;
+<html><code><span class="ascii" style="color: black; background: transparent;
 display:inline-block;
 white-space:pre;
 letter-spacing:0;
